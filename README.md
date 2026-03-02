@@ -1,6 +1,6 @@
 # ShopEase Cloud 2.0 - Prototype
 
-> ⚠️ **TODO: Change the `APP_TITLE` variable in `app.py` from `"ChangeMe"` to your own project name!**
+> ⚠️ **TODO: Change the `APP_TITLE` variable in `app.py` from `"Secretos"` to your own project name!**
 
 A simple Python/Flask web application prototype for the ShopEase Cloud 2.0 assignment.
 
