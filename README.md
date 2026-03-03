@@ -1,7 +1,9 @@
 # ShopEase Cloud 2.0 - Prototype
-<h1>Welcome to Secretos - ShopEase Cloud 2.0</h1>
 <a class="navbar-brand" href="#">Secretos</a>
-
+<title>Secretos - ShopEase Cloud 2.0</title>
+<footer>
+    Secretos — ShopEase Cloud 2.0 Prototype
+</footer>
 
 
 ## Features
