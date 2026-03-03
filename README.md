@@ -1,8 +1,8 @@
 # ShopEase Cloud 2.0 - Prototype
+<h1>Welcome to Secretos - ShopEase Cloud 2.0</h1>
+<a class="navbar-brand" href="#">Secretos</a>
 
-> ⚠️ **TODO: Change the `APP_TITLE` variable in `app.py` from `"Secretos"` to your own project name!**
 
-A simple Python/Flask web application prototype for the ShopEase Cloud 2.0 assignment.
 
 ## Features
 
