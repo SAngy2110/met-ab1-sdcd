@@ -1,9 +1,9 @@
 from flask import Flask, render_template, request, redirect, url_for, session, flash
 
 app = Flask(__name__)
-app.secret_key = "changeme-secret-key"
+app.secret_key = "Secretos-secret-key"
 
-APP_TITLE = "ChangeMe"
+APP_TITLE = "Secretos"
 
 # Fake product data
 products = [
